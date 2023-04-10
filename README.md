@@ -1,3 +1,3 @@
 # Algorithmic Trading
 
-Udemy Course: "Crea Estrategias y Robots de Trading Algorítmico con Python"
+Udemy Course: "Crea Estrategias y Robots de Trading Algorítmico con Python" by QuantCopilotTeam
