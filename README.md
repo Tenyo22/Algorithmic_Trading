@@ -19,9 +19,9 @@ Siempre que se desarrolla una estrategia de trading, es importante visualizar lo
 Los indicadores técnicos están basados en cálculos matemáticos utilizando datos históricos de un archivo financiero (precio, volumen, etc.), para poder "predecir" los movimientos futuros de dicho activo. Son importante para analizar tendencias, gráficos, comportamientos, Price action, etc.
 
 # INDICADORES TECNICOS MAS USADOS
-Medias Móviles (Simples y Exponenciales)
-ATR (Average True Range)
-Banda’s Bollinger
-RSI (Relative Strength Index)
-ADX (Average Directional Index)
+- Medias Móviles (Simples y Exponenciales)
+- ATR (Average True Range)
+- Banda’s Bollinger
+- RSI (Relative Strength Index)
+- ADX (Average Directional Index)
 
